@@ -1,0 +1,14 @@
+package desafios;
+
+public class Sequencia {
+
+	public static void main(String[] args) {
+		int ad = 0;
+		for(int cont = 1; cont < 8;cont++) {
+			ad = cont + 2;
+			System.out.println(ad);
+		}
+
+	}
+
+}
